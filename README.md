@@ -18,7 +18,7 @@
 
 <h2>📺 Notes/Study Guides</h2>
   
-  - [SC-900 Notes]
+  - [SC-900 Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/SC%20900%20Notes.pdf)
   - [Security+ Notes]
 
 <h2>📺 Resources</h2>

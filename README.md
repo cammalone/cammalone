@@ -55,7 +55,7 @@
   - [Incident Response Journal - Template](https://github.com/cammalone/ResourceRepo/blob/main/Incident%20Handlers%20Journal%20-%20Template.pdf)
   - [Pyramid of Pain - Threat Hunting Complexities](https://github.com/cammalone/ResourceRepo/blob/main/Pyramid%20of%20pain.pdf)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect:</h2>
 
 
 [<img align="left" alt="CameronMalone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

@@ -13,6 +13,7 @@
   - Wireshark
   - VirusTool
   - Incident Response
+  - use the Advanced Package Tool (APT) and sudo to install and uninstall applications in a Linux Bash shell.
 
 - <b>Identity & Access Management (IAM)</b>
   - [Entra ID - User Provisioning]

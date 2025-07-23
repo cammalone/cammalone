@@ -19,12 +19,17 @@
 <h2>📺 Notes/Study Guides</h2>
   
   - [SC-900 Notes]
+  - [Security+ Notes]
 
 <h2>📺 Resources</h2>
 
-  - [Cybersecurity Glossary](https://github.com/cammalone/CyberGlossary/blob/main/Security%20Networking%20Glossary.pdf)
+  - [Security Networking Glossary](https://github.com/cammalone/CyberGlossary/blob/main/Security%20Networking%20Glossary.pdf)
   - [SQL Reference Guide](https://github.com/cammalone/SQLRefGuide/blob/main/SQL%20Reference%20Guide.pdf)
   - [tcpdump Guide](https://github.com/cammalone/ResourceRepo/blob/main/OS%20Hardening%20-%20tcpdump%20explanation.pdf)
+  - [Wireshark v. tcpdump Venn Diagram]
+  - [Cyber Glossary]
+  - [Incident Response Playbook - Template]
+  - [Pyramid of Pain - Threat Hunting Complexities](https://imgur.com/a/pH4dgp4)
 
 <h2> 🤳 Connect with me:</h2>
 

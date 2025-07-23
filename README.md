@@ -10,6 +10,7 @@
   - Suricata
   - Python
   - Splunk
+  - tcpdump
   - Wireshark
   - VirusTool
   - Incident Response

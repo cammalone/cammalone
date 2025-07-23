@@ -11,7 +11,7 @@
   - Python
   - Splunk
   - tcpdump
-  - Wireshark
+  - Wireshark (Analyzing network traffic to inspect packet data in Windows VM)
   - VirusTool
   - Incident Response
   - [Advanced Package Tool APT (Proof of Install) -  Practicing installing/uninstalling apps in a Linux Bash shell (Suricata & tcpdump)](https://github.com/cammalone/ProjectDB/blob/main/Screenshots%20from%20Labs.pdf)

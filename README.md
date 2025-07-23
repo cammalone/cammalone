@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cybersecurity</b>
-  - Linux via Bash shell (Authenticate and Authorize Users) - Review file permissions and modify based on org needs
+  - [Linux via Bash shell (Authenticate and Authorize Users) - Review file permissions and modify based on org needs](https://github.com/cammalone/ProjectDB/blob/main/File%20Permissions.pdf)
   - SQL - Apply filters to retrieve records from different datasets investigating security issues
   - SIEM - Google Security Operations (formerly Google Chronicle)
   - IDS

@@ -23,7 +23,7 @@
 
   - [Microsoft Certified: Security, Compliance, & Identity Fundamentals](https://learn.microsoft.com/en-us/users/cameronmalone-9362/credentials/61007c2fafd2676a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
   - [CompTIA Security+](https://www.credly.com/badges/2b696683-5b5e-4301-8ff8-65944343a7f1/linked_in_profile)
-  - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/5DOGGDCNBON0)
+  - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/5DOGGDCNBON0)
   - [MTA: Networking Fundamentals](https://www.credly.com/badges/8c999ea6-77af-4bfa-a5f2-d01da5ccd609/linked_in_profile)
   
 <h2> Frameworks</h2>

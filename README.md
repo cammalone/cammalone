@@ -3,14 +3,20 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cybersecurity</b>
-  - Python
   - Linux - Reviewed File Permissions and Modified Based on Org Needs
   - SQL - Applied Filters to Retrieve Records From Datasets to Investigate Security Issues
-  - SIEM
+  - SIEM - Google Security Operations (formerly Google Chronicle)
   - IDS
+  - Suricata
+  - Python
+  - Splunk
+  - Wireshark
+  - VirusTool
+  - Incident Response
 
 - <b>Identity & Access Management (IAM)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Entra ID - User Provisioning]
+  - [Entra ID - Assigning Licenses]
 
 
 <h2> Certifications</h2>

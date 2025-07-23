@@ -3,8 +3,8 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cybersecurity</b>
-  - Linux via Bash shell - Reviewed File Permissions and Modified Based on Org Needs
-  - SQL - Applied Filters to Retrieve Records From Datasets to Investigate Security Issues
+  - Linux via Bash shell (Authenticate and Authorize Users) - Review file permissions and modify based on org needs
+  - SQL - Apply filters to retrieve records from different datasets investigating security issues
   - SIEM - Google Security Operations (formerly Google Chronicle)
   - IDS
   - Suricata
@@ -13,7 +13,7 @@
   - Wireshark
   - VirusTool
   - Incident Response
-  - Advanced Package Tool (APT) -  package manager used to install/uninstall applications in a Linux Bash shell (Suricata & tcpdump).
+  - Advanced Package Tool APT (Proof of Install) -  Practicing installing/uninstalling apps in a Linux Bash shell (Suricata & tcpdump).
 
 - <b>Identity & Access Management (IAM)</b>
   - [Entra ID - User Provisioning]

@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cybersecurity</b>
-  - Linux - Reviewed File Permissions and Modified Based on Org Needs
+  - Linux via Bash shell - Reviewed File Permissions and Modified Based on Org Needs
   - SQL - Applied Filters to Retrieve Records From Datasets to Investigate Security Issues
   - SIEM - Google Security Operations (formerly Google Chronicle)
   - IDS

@@ -41,6 +41,8 @@
   - [SQL Reference Guide](https://github.com/cammalone/SQLRefGuide/blob/main/SQL%20Reference%20Guide.pdf)
   - [tcpdump Guide](https://github.com/cammalone/ResourceRepo/blob/main/OS%20Hardening%20-%20tcpdump%20explanation.pdf)
   - [Wireshark v. tcpdump - Venn Diagram](https://github.com/cammalone/ResourceRepo/blob/main/Wireshark%20v.%20tcpdump.pdf)
+  - [SIEM v. SOAR]
+  - [EDR v. XDR]
   - [Cyber Glossary](https://github.com/cammalone/ResourceRepo/blob/main/Cyber%20Term%20Glossary.pdf)
   - [Incident Response Phishing - Playbook](https://github.com/cammalone/ResourceRepo/blob/main/Phishing-incident-response-playbook.pdf)
   - [Incident Response Journal - Template](https://github.com/cammalone/ResourceRepo/blob/main/Incident%20Handlers%20Journal%20-%20Template.pdf)

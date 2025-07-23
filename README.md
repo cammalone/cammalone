@@ -44,6 +44,8 @@
   - [Wireshark v. tcpdump - Venn Diagram](https://github.com/cammalone/ResourceRepo/blob/main/Wireshark%20v.%20tcpdump.pdf)
   - [SIEM v. SOAR]
   - [EDR v. XDR]
+  - [TCP v. UDP]
+  - [Public IP v. Private IP]
   - [KQL]
   - [Cyber Glossary](https://github.com/cammalone/ResourceRepo/blob/main/Cyber%20Term%20Glossary.pdf)
   - [Incident Response Phishing - Playbook](https://github.com/cammalone/ResourceRepo/blob/main/Phishing-incident-response-playbook.pdf)

@@ -4,7 +4,7 @@
 
 - <b>Cybersecurity</b>
   - [Linux via Bash shell (Authenticate and Authorize Users) - Review file permissions and modify based on org needs](https://github.com/cammalone/ProjectDB/blob/main/File%20Permissions.pdf)
-  - SQL - Apply filters to retrieve records from different datasets investigating security issues
+  - [SQL - Apply filters to retrieve records from different datasets investigating security issues](https://github.com/cammalone/ProjectDB/blob/main/Screenshots%20from%20Labs.pdf)
   - SIEM - Google Security Operations (formerly Google Chronicle)
   - IDS
   - Suricata

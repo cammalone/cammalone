@@ -22,7 +22,7 @@
 
 <h2>📺 Resources</h2>
 
-  - [Cybersecurity Glossary]
+  - [Cybersecurity Glossary](https://github.com/cammalone/CyberGlossary/blob/main/Security%20Networking%20Glossary.pdf)
   - [SQL Reference Guide](https://github.com/cammalone/SQLRefGuide/blob/main/SQL%20Reference%20Guide.pdf)
   - [tcpdump Guide]
 

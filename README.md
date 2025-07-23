@@ -28,7 +28,8 @@
   - [tcpdump Guide](https://github.com/cammalone/ResourceRepo/blob/main/OS%20Hardening%20-%20tcpdump%20explanation.pdf)
   - [Wireshark v. tcpdump Venn Diagram]
   - [Cyber Glossary]
-  - [Incident Response Playbook - Template]
+  - [Incident Response - Playbook]
+  - [Incident Response Journal - Template](https://github.com/cammalone/ResourceRepo/blob/main/Incident%20Handlers%20Journal%20-%20Template.pdf)
   - [Pyramid of Pain - Threat Hunting Complexities](https://imgur.com/a/pH4dgp4)
 
 <h2> 🤳 Connect with me:</h2>

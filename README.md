@@ -28,7 +28,7 @@
   - [SC-900 Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/SC%20900%20Notes.pdf)
   - [Security+ Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/SECURITY%2B%20Notes.pdf)
 
-<h2>📺<i class="fa fa-life-ring" aria-hidden="true"></i> Resources/ Go-To Links</h2>
+<h2>📺<i class="fa fa-life-ring" aria-hidden="true"></i> Resources/Tools </h2>
 
   - [Security Networking Glossary](https://github.com/cammalone/CyberGlossary/blob/main/Security%20Networking%20Glossary.pdf)
   - [SQL Reference Guide](https://github.com/cammalone/SQLRefGuide/blob/main/SQL%20Reference%20Guide.pdf)

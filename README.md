@@ -32,7 +32,7 @@
 
 
 <h2>📺 Notes/Study Guides</h2>
-  
+  - [Cyber Notes]
   - [SC-900 Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/SC%20900%20Notes.pdf)
   - [Security+ Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/SECURITY%2B%20Notes.pdf)
 
@@ -40,6 +40,7 @@
 
   - [Security Networking Glossary](https://github.com/cammalone/CyberGlossary/blob/main/Security%20Networking%20Glossary.pdf)
   - [SQL Reference Guide](https://github.com/cammalone/SQLRefGuide/blob/main/SQL%20Reference%20Guide.pdf)
+  - [Python Glossary]
   - [CIA Triad]
   - [tcpdump Guide](https://github.com/cammalone/ResourceRepo/blob/main/OS%20Hardening%20-%20tcpdump%20explanation.pdf)
   - [Wireshark v. tcpdump - Venn Diagram](https://github.com/cammalone/ResourceRepo/blob/main/Wireshark%20v.%20tcpdump.pdf)

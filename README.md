@@ -13,7 +13,7 @@
   - Wireshark
   - VirusTool
   - Incident Response
-  - use the Advanced Package Tool (APT) and sudo to install and uninstall applications in a Linux Bash shell.
+  - Advanced Package Tool (APT) -  package manager used to install/uninstall applications in a Linux Bash shell (Suricata & tcpdump).
 
 - <b>Identity & Access Management (IAM)</b>
   - [Entra ID - User Provisioning]

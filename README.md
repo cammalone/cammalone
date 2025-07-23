@@ -23,7 +23,7 @@
 <h2>📺 Resources</h2>
 
   - [Cybersecurity Glossary]
-  - [SQL Reference Guide]
+  - [SQL Reference Guide](https://github.com/cammalone/SQLRefGuide/blob/main/SQL%20Reference%20Guide.pdf)
   - [tcpdump Guide]
 
 <h2> 🤳 Connect with me:</h2>

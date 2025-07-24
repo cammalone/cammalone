@@ -7,9 +7,9 @@
   - [SQL - Apply filters to retrieve records from different datasets investigating security issues](https://github.com/cammalone/ProjectDB/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
   - SIEM - Google Security Operations (formerly Google Chronicle)
   - IDS & NIDS (Network Intrusion Detection Systems) tools
-  - Suricata
+  - Suricata IDS/IPS Tool
   - Python
-  - Splunk
+  - Splunk SIEM Tools
   - tcpdump
   - Wireshark (Analyzing network traffic to inspect packet data in Windows VM using sample data)
   - VirusTool

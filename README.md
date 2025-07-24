@@ -55,6 +55,9 @@
   - [Incident Response Phishing - Playbook](https://github.com/cammalone/ResourceRepo/blob/main/Phishing-incident-response-playbook.pdf)
   - [Incident Response Journal - Template](https://github.com/cammalone/ResourceRepo/blob/main/Incident%20Handlers%20Journal%20-%20Template.pdf)
   - [Pyramid of Pain - Threat Hunting Complexities](https://github.com/cammalone/ResourceRepo/blob/main/Pyramid%20of%20pain.pdf)
+  - [Jotti's Malware Scan](https://virusscan.jotti.org/)
+  - [Url Scan](https://urlscan.io/)
+  - [MalwareBazaar - Malware Samples](https://bazaar.abuse.ch/browse/)
 
 <h2> 🤳 Connect:</h2>
 

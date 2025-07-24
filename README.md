@@ -11,7 +11,8 @@
   - Python
   - Splunk SIEM Tools
   - tcpdump
-  - Wireshark (Analyzing network traffic to inspect packet data in Windows VM using sample data)
+  - Wireshark - (Filtering to analyze MAC Address, DNS, and TCP packets)
+  - Wireshark - (Analyzing network traffic to inspect packet data in Windows VM using sample data)
   - VirusTool
   - Incident Response
   - [Advanced Package Tool APT (Proof of Install) -  Practicing installing/uninstalling apps in a Linux Bash shell (Suricata & tcpdump)](https://github.com/cammalone/ProjectDB/blob/main/Screenshots%20from%20Labs.pdf)

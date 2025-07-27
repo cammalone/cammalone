@@ -5,14 +5,14 @@
 - <b>Linux via Bash shell</b>
   - [(Authenticate and Authorize Users) - Review file permissions & make modifications](https://github.com/cammalone/ProjectDB/blob/main/File%20Permissions.pdf)
   - [Advanced Package Tool APT (Proof of Install) -  Practicing installing/uninstalling apps(Suricata & tcpdump)](https://github.com/cammalone/ProjectDB/blob/main/Screenshots%20from%20Labs.pdf)
+  - <b>IDS/IPS tools</b>
+    - [Suricata (Signature based IDS/IPS) Project examining alert & network telemetry logs](https://github.com/cammalone/ProjectDB/blob/main/Suricata%20Log%20Practice.pdf)
+    - [tcpdump - Practicing to Capture Packets and analyze live network traffic](https://github.com/cammalone/ProjectDB/blob/main/tcpdump%20capturing%20packets.pdf)
 - <b>SQL</b>
   - [Apply filters to retrieve records from different datasets investigating security issues](https://github.com/cammalone/ProjectDB/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
 - <b>SIEM tools</b>
   - Google SecOps (formerly Google Chronicle)
   - [Splunk - Running queries to identify failed SSH logins on mail server](https://github.com/cammalone/ProjectDB/blob/main/Querying%20in%20Splunk%20SIEM%20Tool.pdf)
-- <b>IDS/IPS tools</b>
-  - [Suricata (Signature based IDS/IPS) Project examining alert & network telemetry logs](https://github.com/cammalone/ProjectDB/blob/main/Suricata%20Log%20Practice.pdf)
-  - [tcpdump - Practicing to Capture Packets and analyze live network traffic](https://github.com/cammalone/ProjectDB/blob/main/tcpdump%20capturing%20packets.pdf)
 - <b>Python</b>
   
 - <b>Wireshark</b>

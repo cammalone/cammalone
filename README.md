@@ -1,21 +1,28 @@
 <h1>Hi, I'm Cameron! </h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻Cybersecurtiy Projects:</h2>
 
-- <b>Cybersecurity</b>
-  - Linux via Bash shell
-    - [(Authenticate and Authorize Users) - Review file permissions and modify based on org needs](https://github.com/cammalone/ProjectDB/blob/main/File%20Permissions.pdf)
-  - [SQL - Apply filters to retrieve records from different datasets investigating security issues](https://github.com/cammalone/ProjectDB/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
-  - SIEM - Google SecOps (formerly Google Chronicle)
-  - [Suricata (Signature based IDS/IPS) Project examining alert & network telemetry logs](https://github.com/cammalone/ProjectDB/blob/main/Suricata%20Log%20Practice.pdf)
-  - Python
+- <b>Linux via Bash shell</b>
+  - [(Authenticate and Authorize Users) - Review file permissions & make modifications](https://github.com/cammalone/ProjectDB/blob/main/File%20Permissions.pdf)
+  - [Advanced Package Tool APT (Proof of Install) -  Practicing installing/uninstalling apps(Suricata & tcpdump)](https://github.com/cammalone/ProjectDB/blob/main/Screenshots%20from%20Labs.pdf)
+- <b>SQL</b>
+  - [Apply filters to retrieve records from different datasets investigating security issues](https://github.com/cammalone/ProjectDB/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
+- <b>SIEM tools</b>
+  - Google SecOps (formerly Google Chronicle)
   - [Splunk - Running queries in SIEM tool to identify failed SSH logins on mail server](https://github.com/cammalone/ProjectDB/blob/main/Querying%20in%20Splunk%20SIEM%20Tool.pdf)
-  - [tcpdump - Practicing to Capture Packets and analyze live network traffic in a Linux VM](https://github.com/cammalone/ProjectDB/blob/main/tcpdump%20capturing%20packets.pdf)
-  - [Wireshark - (Filtering for MAC Address, DNS, and TCP packets to be analyzed)](https://github.com/cammalone/ProjectDB/blob/main/Filtering%20DNS%2C%20MAC%2C%20TCP%20pcap.pdf)
-  - [Wireshark - (Analyzing network traffic to inspect packet data in Windows VM using sample data)](https://github.com/cammalone/ProjectDB/blob/main/Analyzing%20packets%20using%20Wireshark.pdf)
-  - [VirusTotal - Practicing scanning hash files, urls, IP addresses & domains for IoCs](https://github.com/cammalone/ProjectDB/blob/main/Scanning%20Hashes.pdf)
+- <b>IDS/IPS tools</b>
+  - [Suricata (Signature based IDS/IPS) Project examining alert & network telemetry logs](https://github.com/cammalone/ProjectDB/blob/main/Suricata%20Log%20Practice.pdf)
+  - [tcpdump - Practicing to Capture Packets and analyze live network traffic](https://github.com/cammalone/ProjectDB/blob/main/tcpdump%20capturing%20packets.pdf)
+-<b>Python</b>
+  
+  - 
+- <b>Wireshark</b>
+  - [Filtering for MAC Address, DNS, and TCP packets to be analyzed](https://github.com/cammalone/ProjectDB/blob/main/Filtering%20DNS%2C%20MAC%2C%20TCP%20pcap.pdf)
+  - [Analyzing network traffic to inspect packet data in Windows VM using sample data](https://github.com/cammalone/ProjectDB/blob/main/Analyzing%20packets%20using%20Wireshark.pdf)
+- <b>VirusTotal</b>
+    - [Practicing scanning hash files, urls, IP addresses & domains for IoCs](https://github.com/cammalone/ProjectDB/blob/main/Scanning%20Hashes.pdf)
   - Incident Response
-  - [Advanced Package Tool APT (Proof of Install) -  Practicing installing/uninstalling apps in a Linux Bash shell (Suricata & tcpdump)](https://github.com/cammalone/ProjectDB/blob/main/Screenshots%20from%20Labs.pdf)
+    
 
 - <b>Identity & Access Management (IAM)(In progress - Compiling all projects to be uploaded)</b>
   - [Entra ID - User Provisioning]

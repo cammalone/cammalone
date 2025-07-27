@@ -58,6 +58,7 @@
   - [Jotti's Malware Scan](https://virusscan.jotti.org/)
   - [Url Scan](https://urlscan.io/)
   - [MalwareBazaar - Malware Samples](https://bazaar.abuse.ch/browse/)
+  - [The Syslog Protocol](https://www.rfc-editor.org/rfc/rfc5424)
 
 <h2> 🤳 Connect:</h2>
 

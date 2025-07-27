@@ -27,8 +27,6 @@
   - [CompTIA Security+](https://www.credly.com/badges/2b696683-5b5e-4301-8ff8-65944343a7f1/linked_in_profile)
   - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/5DOGGDCNBON0)
   - [MTA: Networking Fundamentals](https://www.credly.com/badges/8c999ea6-77af-4bfa-a5f2-d01da5ccd609/linked_in_profile)
-  
-<h2> Frameworks</h2>
 
 
 <h2>📺 Notes/Study Guides</h2>
@@ -45,7 +43,7 @@
   - [CIA Triad]
   - [tcpdump Guide](https://github.com/cammalone/ResourceRepo/blob/main/OS%20Hardening%20-%20tcpdump%20explanation.pdf)
   - [Wireshark v. tcpdump - Venn Diagram](https://github.com/cammalone/ResourceRepo/blob/main/Wireshark%20v.%20tcpdump.pdf)
-  - [SIEM v. SOAR]
+  - [SIEM v. SOAR](https://www.logpoint.com/wp-content/uploads/2022/01/siemsoar-800x330.png)
   - [EDR v. XDR]
   - [TCP v. UDP]
   - [Public IP v. Private IP]

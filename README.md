@@ -60,6 +60,7 @@
   - [The Syslog Protocol](https://www.rfc-editor.org/rfc/rfc5424)
   - [Test Generated Log Formats (JSON, XML, SQL, CSV)](https://generatedata.com/)
   - [Suricata User Guide](https://docs.suricata.io/en/latest/index.html)
+  - [Splunk simulated incident investigations training](https://bots.splunk.com/login?redirect=/)
 
 <h2> 🤳 Connect:</h2>
 

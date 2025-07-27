@@ -7,7 +7,7 @@
   - [SQL - Apply filters to retrieve records from different datasets investigating security issues](https://github.com/cammalone/ProjectDB/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
   - SIEM - Google Security Operations (formerly Google Chronicle)
   - IDS & NIDS (Network Intrusion Detection Systems) tools
-  - Suricata (Signature based IDS/IPS/NIDS) Project examining alert & network telemetry logs
+  - Suricata (Signature based IDS/IPS) Project examining alert & network telemetry logs
   - Python
   - Splunk SIEM Tools
   - [tcpdump - Practicing to Capture Packets and analyze live network traffic in a Linux VM](https://github.com/cammalone/ProjectDB/blob/main/tcpdump%20capturing%20packets.pdf)
@@ -60,6 +60,7 @@
   - [MalwareBazaar - Malware Samples](https://bazaar.abuse.ch/browse/)
   - [The Syslog Protocol](https://www.rfc-editor.org/rfc/rfc5424)
   - [Test Generated Log Formats (JSON, XML, SQL, CSV)](https://generatedata.com/)
+  - [Suricata User Guide](https://docs.suricata.io/en/latest/index.html)
 
 <h2> 🤳 Connect:</h2>
 

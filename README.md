@@ -5,7 +5,7 @@
 - <b>Cybersecurity</b>
   - [Linux via Bash shell (Authenticate and Authorize Users) - Review file permissions and modify based on org needs](https://github.com/cammalone/ProjectDB/blob/main/File%20Permissions.pdf)
   - [SQL - Apply filters to retrieve records from different datasets investigating security issues](https://github.com/cammalone/ProjectDB/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
-  - SIEM - Google Security Operations (formerly Google Chronicle)
+  - SIEM - Google SecOps (formerly Google Chronicle)
   - [Suricata (Signature based IDS/IPS) Project examining alert & network telemetry logs](https://github.com/cammalone/ProjectDB/blob/main/Suricata%20Log%20Practice.pdf)
   - Python
   - Splunk SIEM Tools

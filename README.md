@@ -59,6 +59,7 @@
   - [Url Scan](https://urlscan.io/)
   - [MalwareBazaar - Malware Samples](https://bazaar.abuse.ch/browse/)
   - [The Syslog Protocol](https://www.rfc-editor.org/rfc/rfc5424)
+  - [Test Generated Log Formats (JSON, XML, SQL, CSV)](https://generatedata.com/)
 
 <h2> 🤳 Connect:</h2>
 

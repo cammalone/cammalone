@@ -9,7 +9,7 @@
   - [Apply filters to retrieve records from different datasets investigating security issues](https://github.com/cammalone/ProjectDB/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
 - <b>SIEM tools</b>
   - Google SecOps (formerly Google Chronicle)
-  - [Splunk - Running queries in SIEM tool to identify failed SSH logins on mail server](https://github.com/cammalone/ProjectDB/blob/main/Querying%20in%20Splunk%20SIEM%20Tool.pdf)
+  - [Splunk - Running queries to identify failed SSH logins on mail server](https://github.com/cammalone/ProjectDB/blob/main/Querying%20in%20Splunk%20SIEM%20Tool.pdf)
 - <b>IDS/IPS tools</b>
   - [Suricata (Signature based IDS/IPS) Project examining alert & network telemetry logs](https://github.com/cammalone/ProjectDB/blob/main/Suricata%20Log%20Practice.pdf)
   - [tcpdump - Practicing to Capture Packets and analyze live network traffic](https://github.com/cammalone/ProjectDB/blob/main/tcpdump%20capturing%20packets.pdf)

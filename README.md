@@ -8,7 +8,7 @@
   - SIEM - Google SecOps (formerly Google Chronicle)
   - [Suricata (Signature based IDS/IPS) Project examining alert & network telemetry logs](https://github.com/cammalone/ProjectDB/blob/main/Suricata%20Log%20Practice.pdf)
   - Python
-  - [Splunk - Running queries in SIEM tool using uploaded data]
+  - [Splunk - Running queries in SIEM tool to identify failed SSH logins on mail server](https://github.com/cammalone/ProjectDB/blob/main/Querying%20in%20Splunk%20SIEM%20Tool.pdf)
   - [tcpdump - Practicing to Capture Packets and analyze live network traffic in a Linux VM](https://github.com/cammalone/ProjectDB/blob/main/tcpdump%20capturing%20packets.pdf)
   - [Wireshark - (Filtering for MAC Address, DNS, and TCP packets to be analyzed)](https://github.com/cammalone/ProjectDB/blob/main/Filtering%20DNS%2C%20MAC%2C%20TCP%20pcap.pdf)
   - [Wireshark - (Analyzing network traffic to inspect packet data in Windows VM using sample data)](https://github.com/cammalone/ProjectDB/blob/main/Analyzing%20packets%20using%20Wireshark.pdf)
@@ -16,7 +16,7 @@
   - Incident Response
   - [Advanced Package Tool APT (Proof of Install) -  Practicing installing/uninstalling apps in a Linux Bash shell (Suricata & tcpdump)](https://github.com/cammalone/ProjectDB/blob/main/Screenshots%20from%20Labs.pdf)
 
-- <b>Identity & Access Management (IAM)</b>
+- <b>Identity & Access Management (IAM)(In progress - Compiling all projects to be uploaded)</b>
   - [Entra ID - User Provisioning]
   - [Entra ID - Assigning Licenses]
 

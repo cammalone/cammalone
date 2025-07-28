@@ -1,8 +1,8 @@
-<h1>Hi  I'm Cameron! 👋 </h1>
-👋 I build and break things to understand how they work.
-🛡️ Focused on identity, cloud security, and compliance frameworks.
+<h1>Greetings,  I'm Cameron! 👋  </h1>
+🧽 I build and break things to understand how they work.
+🛡️ Focused on identity, cloud security, and securing systems.
 🧠 Always experimenting, always learning — currently sharpening my skills in Azure + IAM.
-💼 Open to collaborating or exploring security-driven roles.
+🤝 Open to collaborating or exploring security-driven roles.
 
 <h2>👨‍💻Cybersecurtiy Projects:</h2>
 

@@ -10,6 +10,9 @@ Currently building skills in:
 I’m passionate about strengthening access controls, automating security processes, and understanding how systems work under the hood.  
 **Open to collaborating or exploring security-focused roles** in cloud platforms, identity governance, and compliance-driven environments.
 
+🔗 [View my LinkedIn](https://linkedin.com/in/cam-malone) 
+
+
 <h2>👨‍💻Cybersecurtiy Projects:</h2>
 
 - <b>Linux via Bash shell</b>
@@ -75,16 +78,8 @@ I’m passionate about strengthening access controls, automating security proces
   - [Splunk simulated incident investigations training](https://bots.splunk.com/login?redirect=/)
   - [Google SecOps - UDM field list](https://cloud.google.com/chronicle/docs/reference/udm-field-list)
 
-<h2> 📱 Connect:</h2>
 
 
-[<img align="left" alt="CameronMalone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/cam-malone
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

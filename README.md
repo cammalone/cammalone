@@ -52,7 +52,7 @@
   - [tcpdump Guide](https://github.com/cammalone/ResourceRepo/blob/main/OS%20Hardening%20-%20tcpdump%20explanation.pdf)
   - [Wireshark v. tcpdump - Venn Diagram](https://github.com/cammalone/ResourceRepo/blob/main/Wireshark%20v.%20tcpdump.pdf)
   - [SIEM v. SOAR](https://www.logpoint.com/wp-content/uploads/2022/01/siemsoar-800x330.png)
-  - [EDR v. XDR]
+  - [EDR v. XDR](https://github.com/cammalone/Resource/blob/main/XDR%20v%20EDR%20Comparison%20Chart.png)
   - [TCP v. UDP](https://medium.com/javarevisited/stop-confusing-tcp-and-udp-heres-the-ultimate-cheat-sheet-baa5e49d7188)
   - [Public IP v. Private IP](https://www.geeksforgeeks.org/computer-networks/difference-between-private-and-public-ip-addresses/)
   - [KQL](https://learn.microsoft.com/en-us/kusto/query/?view=microsoft-fabric)

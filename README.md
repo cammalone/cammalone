@@ -17,8 +17,6 @@
 - <b>SIEM tools</b>
   - Google SecOps (formerly Google Chronicle)
   - [Splunk - Running queries to identify failed SSH logins on mail server](https://github.com/cammalone/ProjectDB/blob/main/Querying%20in%20Splunk%20SIEM%20Tool.pdf)
-- <b>Python</b>
-  
 - <b>Wireshark</b>
   - [Filtering for MAC Address, DNS, and TCP packets to be analyzed](https://github.com/cammalone/ProjectDB/blob/main/Filtering%20DNS%2C%20MAC%2C%20TCP%20pcap.pdf)
   - [Analyzing network traffic to inspect packet data in Windows VM using sample data](https://github.com/cammalone/ProjectDB/blob/main/Analyzing%20packets%20using%20Wireshark.pdf)
@@ -70,6 +68,7 @@
   - [Test Generated Log Formats (JSON, XML, SQL, CSV)](https://generatedata.com/)
   - [Suricata User Guide](https://docs.suricata.io/en/latest/index.html)
   - [Splunk simulated incident investigations training](https://bots.splunk.com/login?redirect=/)
+  - [Google SecOps - UDM field list](https://cloud.google.com/chronicle/docs/reference/udm-field-list)
 
 <h2> 📱 Connect:</h2>
 

@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cameron! </h1>
+<h1>Hi, I'm Cameron! 👋 </h1>
 
 <h2>👨‍💻Cybersecurtiy Projects:</h2>
 
@@ -28,7 +28,7 @@
   - [Entra ID - Assigning Licenses]
 
 
-<h2> :Certifications</h2>
+<h2> ✔️ Certifications</h2>
 
   - [Microsoft Certified: Security, Compliance, & Identity Fundamentals](https://learn.microsoft.com/en-us/users/cameronmalone-9362/credentials/61007c2fafd2676a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
   - [CompTIA Security+](https://www.credly.com/badges/2b696683-5b5e-4301-8ff8-65944343a7f1/linked_in_profile)
@@ -42,7 +42,7 @@
   - [SC-900 Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/SC%20900%20Notes.pdf)
   - [Security+ Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/SECURITY%2B%20Notes.pdf)
 
-<h2>📺<i class="fa fa-life-ring" aria-hidden="true"></i> Resources/Tools </h2>
+<h2>🧰 Resources/Tools </h2>
 
   - [Security Networking Glossary](https://github.com/cammalone/CyberGlossary/blob/main/Security%20Networking%20Glossary.pdf)
   - [SQL Reference Guide](https://github.com/cammalone/SQLRefGuide/blob/main/SQL%20Reference%20Guide.pdf)
@@ -67,7 +67,7 @@
   - [Suricata User Guide](https://docs.suricata.io/en/latest/index.html)
   - [Splunk simulated incident investigations training](https://bots.splunk.com/login?redirect=/)
 
-<h2> 🤳 Connect:</h2>
+<h2> 📱 Connect:</h2>
 
 
 [<img align="left" alt="CameronMalone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

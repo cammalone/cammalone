@@ -20,7 +20,6 @@
   - [Analyzing network traffic to inspect packet data in Windows VM using sample data](https://github.com/cammalone/ProjectDB/blob/main/Analyzing%20packets%20using%20Wireshark.pdf)
 - <b>VirusTotal</b>
     - [Practicing scanning hash files, urls, IP addresses & domains for IoCs](https://github.com/cammalone/ProjectDB/blob/main/Scanning%20Hashes.pdf)
-- <b>Incident Response</b>
     
 <h2>👨‍💻IAM Projects:</h2>
 

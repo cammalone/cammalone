@@ -15,7 +15,6 @@
 - <b>SQL</b>
   - [Apply filters to retrieve records from different datasets investigating security issues](https://github.com/cammalone/ProjectDB/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
 - <b>SIEM tools</b>
-  - Google SecOps (formerly Google Chronicle)
   - [Splunk - Running queries to identify failed SSH logins on mail server](https://github.com/cammalone/ProjectDB/blob/main/Querying%20in%20Splunk%20SIEM%20Tool.pdf)
 - <b>Wireshark</b>
   - [Filtering for MAC Address, DNS, and TCP packets to be analyzed](https://github.com/cammalone/ProjectDB/blob/main/Filtering%20DNS%2C%20MAC%2C%20TCP%20pcap.pdf)

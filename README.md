@@ -1,4 +1,5 @@
-<h1>Greetings,  I'm Cameron! 👋  </h1>
+<p align=center>
+<h1>Greetings,👋 My Name is Cameron - Welcome to my GitHub  </h1>
 🧽 I build and break things to understand how they work.
 🛡️ Focused on identity, cloud security, and securing systems.
 🧠 Always experimenting, always learning — currently sharpening my skills in Azure + IAM.

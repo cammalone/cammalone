@@ -1,6 +1,6 @@
 <h1> Greetings👋 My Name is Cameron - Welcome to my GitHub! </h1>
 
-    🔍 I'm seeking roles in Cybersecurity, Cloud Security, and IAM.
+    🔍 I'm seeking roles in Identity & Access Mgmt, Cybersecurity, & Cloud Security.
     🧠 Currently mastering Azure + IAM and Okta Identity Cloud
     🧽 I build and break things to understand how they work; all projects below.
     🛡️ Focused on access management, cloud security, and cybersecurity.

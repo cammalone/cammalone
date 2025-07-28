@@ -1,10 +1,14 @@
-<h1> Greetings👋 My Name is Cameron - Welcome to my GitHub! </h1>
+<h1> 👋 Welcome — I'm Cameron! </h1>
 
-    🔍 Aspiring IAM & cloud security engineer with a foundation in GRC and cybersecurity.
-    🧠 Currently mastering Azure + IAM and Okta Identity Cloud
-    🧽 I build and break things to understand how they work; all projects below.
-    🛡️ Focused on access management, cloud security, and cybersecurity.
-    🤝 Open to collaborating or exploring security-driven roles.
+I'm an aspiring **Cybersecurity & Identity Access Management (IAM) specialist/engineer** with a foundation in **GRC, cloud, and hands-on cybersecurity projects**.
+
+Currently building skills in:
+- ☁️ Microsoft Azure (SC-300, AZ-500 in progress)
+- 🔐 Okta Identity Cloud & IAM lifecycle automation
+- 🛠️ Bash, PowerShell, and security tooling (e.g., Suricata, Splunk, Wireshark)
+
+I’m passionate about strengthening access controls, automating security processes, and understanding how systems work under the hood.  
+**Open to collaborating or exploring security-focused roles** in cloud platforms, identity governance, and compliance-driven environments.
 
 <h2>👨‍💻Cybersecurtiy Projects:</h2>
 

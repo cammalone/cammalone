@@ -28,7 +28,7 @@
   - [Entra ID - Assigning Licenses]
 
 
-<h2> Certifications</h2>
+<h2> :Certifications</h2>
 
   - [Microsoft Certified: Security, Compliance, & Identity Fundamentals](https://learn.microsoft.com/en-us/users/cameronmalone-9362/credentials/61007c2fafd2676a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
   - [CompTIA Security+](https://www.credly.com/badges/2b696683-5b5e-4301-8ff8-65944343a7f1/linked_in_profile)
@@ -36,7 +36,7 @@
   - [MTA: Networking Fundamentals](https://www.credly.com/badges/8c999ea6-77af-4bfa-a5f2-d01da5ccd609/linked_in_profile)
 
 
-<h2>📺 Notes/Study Guides</h2>
+<h2>📝 Notes/Study Guides</h2>
   
   - [Cyber Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/Cy%20Cert%20Notes.pdf)
   - [SC-900 Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/SC%20900%20Notes.pdf)

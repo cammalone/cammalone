@@ -5,7 +5,7 @@ I'm an aspiring **Cybersecurity & Identity Access Management (IAM) specialist/en
 Currently building skills in:
 - ☁️ Microsoft Azure (SC-300, AZ-500 in progress)
 - 🔐 Okta Identity Cloud & IAM lifecycle automation
-- 🛠️ Bash, PowerShell, and security tooling (e.g., Suricata, Splunk, Wireshark)
+- 🛠️ Bash, PowerShell, and security tooling (e.g., Suricata, Splunk, Wireshark).
 
 I’m passionate about strengthening access controls, automating security processes, and understanding how systems work under the hood.  
 **Open to collaborating or exploring security-focused roles** in cloud platforms, identity governance, and compliance-driven environments.

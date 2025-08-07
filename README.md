@@ -54,6 +54,7 @@ I’m passionate about strengthening access controls, automating security proces
 
 <h2>🧰 Resources/Tools </h2>
 
+  - [Securing privileged access for hybrid and cloud deployments in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/security-planning)
   - [Security Networking Glossary](https://github.com/cammalone/CyberGlossary/blob/main/Security%20Networking%20Glossary.pdf)
   - [SQL Reference Guide](https://github.com/cammalone/SQLRefGuide/blob/main/SQL%20Reference%20Guide.pdf)
   - [Python Glossary](https://github.com/cammalone/ResourceRepo/blob/main/Python%20Glossary.pdf)

@@ -59,6 +59,7 @@ I’m passionate about strengthening access controls, automating security proces
   - [Creating "break glass" accounts](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/security-emergency-access)
   - [Privileged Identity Management](https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/)
   - [Securing privileged access for hybrid and cloud deployments in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/security-planning)
+  - [Verify how licenses are assigned to users](https://learn.microsoft.com/en-us/entra/identity/users/licensing-group-advanced)
   - [Security Networking Glossary](https://github.com/cammalone/CyberGlossary/blob/main/Security%20Networking%20Glossary.pdf)
   - [SQL Reference Guide](https://github.com/cammalone/SQLRefGuide/blob/main/SQL%20Reference%20Guide.pdf)
   - [Python Glossary](https://github.com/cammalone/ResourceRepo/blob/main/Python%20Glossary.pdf)

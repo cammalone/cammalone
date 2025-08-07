@@ -54,6 +54,7 @@ I’m passionate about strengthening access controls, automating security proces
 
 <h2>🧰 Resources/Tools </h2>
 
+  - [Requiring MFA & Conditional Access Policies](https://learn.microsoft.com/en-us/entra/identity/conditional-access/policy-all-users-mfa-strength)
   - [Creating "break glass" accounts](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/security-emergency-access)
   - [Privileged Identity Management](https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/)
   - [Securing privileged access for hybrid and cloud deployments in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/security-planning)

@@ -54,6 +54,7 @@ I’m passionate about strengthening access controls, automating security proces
 
 <h2>🧰 Resources/Tools </h2>
 
+  - [Configure IdP via API key with OAuth/SAML (Google, Facebook, etc.)](https://learn.microsoft.com/en-us/training/modules/implement-manage-external-identities/13-configure-identity-providers)
   - [Requiring MFA & Conditional Access Policies](https://learn.microsoft.com/en-us/entra/identity/conditional-access/policy-all-users-mfa-strength)
   - [Azure Roles v. Microsoft Entra Roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles)
   - [Restrict guest access permissions in Entra ID](https://learn.microsoft.com/en-us/entra/identity/users/users-restrict-guest-permissions)

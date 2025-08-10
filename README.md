@@ -55,6 +55,7 @@ I’m passionate about strengthening access controls, automating security proces
 <h2>🧰 Resources/Tools </h2>
 
   - [Configure IdP via API key with OAuth/SAML (Google, Facebook, etc.)](https://learn.microsoft.com/en-us/training/modules/implement-manage-external-identities/13-configure-identity-providers)
+  - [Creating Conditional Access policies in Microsoft Entra](https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview)
   - [Plan MFA deployment](https://learn.microsoft.com/en-us/entra/identity/authentication/howto-mfa-getstarted#enforcing-registration)
   - [Troubleshooting errors when exporting to Entra Connect](https://learn.microsoft.com/en-us/training/modules/implement-manage-hybrid-identity/7-trouble-shoot-synchronization-errors)
   - [Requiring MFA & Conditional Access Policies](https://learn.microsoft.com/en-us/entra/identity/conditional-access/policy-all-users-mfa-strength)

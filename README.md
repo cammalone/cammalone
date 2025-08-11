@@ -60,6 +60,7 @@ I’m passionate about strengthening access controls, automating security proces
   - [Troubleshooting errors when exporting to Entra Connect](https://learn.microsoft.com/en-us/training/modules/implement-manage-hybrid-identity/7-trouble-shoot-synchronization-errors)
   - [Requiring MFA & Conditional Access Policies](https://learn.microsoft.com/en-us/entra/identity/conditional-access/policy-all-users-mfa-strength)
   - [Azure Roles v. Microsoft Entra Roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles)
+  - [All resources for Conditional Access policies](https://learn.microsoft.com/en-us/training/modules/plan-implement-administer-conditional-access/13-summary-resources)
   - [Restrict guest access permissions in Entra ID](https://learn.microsoft.com/en-us/entra/identity/users/users-restrict-guest-permissions)
   - [Assign/unassign licenses for users in M365 Admin center](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
   - [Bulk create users in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/users/users-bulk-add)

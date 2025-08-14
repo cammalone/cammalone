@@ -60,6 +60,7 @@ I’m passionate about strengthening **authentication, authorization, & IGA cont
   - [Configure IdP via API key with OAuth/SAML (Google, Facebook, etc.)](https://learn.microsoft.com/en-us/training/modules/implement-manage-external-identities/13-configure-identity-providers)
   - [Creating Conditional Access policies in Microsoft Entra](https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview)
   - [Plan MFA deployment](https://learn.microsoft.com/en-us/entra/identity/authentication/howto-mfa-getstarted#enforcing-registration)
+  - [Configure SSPR with pw writeback to on-prem](https://www.youtube.com/watch?v=rA8TvhNcCvQ)
   - [Troubleshooting errors when exporting to Entra Connect](https://learn.microsoft.com/en-us/training/modules/implement-manage-hybrid-identity/7-trouble-shoot-synchronization-errors)
   - [Requiring MFA & Conditional Access Policies](https://learn.microsoft.com/en-us/entra/identity/conditional-access/policy-all-users-mfa-strength)
   - [Azure Roles v. Microsoft Entra Roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles)

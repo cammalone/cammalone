@@ -70,6 +70,7 @@ I’m passionate about strengthening **authentication, authorization, & IGA cont
   - [Microsoft Graph API](https://developer.microsoft.com/en-us/graph)
   - [Assign/unassign licenses for users in M365 Admin center](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
   - [Bulk create users in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/users/users-bulk-add)
+  - [Block legacy authN via CA in Azure AD](https://learn.microsoft.com/en-us/entra/identity/conditional-access/policy-block-legacy-authentication)
   - [Create or update a dynamic membership group in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/users/groups-create-rule)
   - [Manage Microsoft Entra groups and group membership](https://learn.microsoft.com/en-us/entra/fundamentals/how-to-manage-groups)
   - [Creating "break glass" accounts](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/security-emergency-access)

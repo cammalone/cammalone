@@ -79,6 +79,7 @@ I’m passionate about strengthening **authentication, authorization, & IGA cont
   - [Manage self-service license requests in the M365 Admin Center](https://learn.microsoft.com/en-us/microsoft-365/commerce/licenses/manage-license-requests?view=o365-worldwide)
   - [Securing privileged access for hybrid and cloud deployments in Microsoft Entra ID](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/security-planning)
   - [Verify how licenses are assigned to users](https://learn.microsoft.com/en-us/entra/identity/users/licensing-group-advanced)
+  - [Azure RBAC & Key Vault resources](https://learn.microsoft.com/en-us/training/modules/implement-access-management-for-azure-resources/11-summary-resources)
   - [Security Networking Glossary](https://github.com/cammalone/CyberGlossary/blob/main/Security%20Networking%20Glossary.pdf)
   - [SQL Reference Guide](https://github.com/cammalone/SQLRefGuide/blob/main/SQL%20Reference%20Guide.pdf)
   - [Python Glossary](https://github.com/cammalone/ResourceRepo/blob/main/Python%20Glossary.pdf)

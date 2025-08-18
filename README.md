@@ -58,6 +58,7 @@ I’m passionate about strengthening **authentication, authorization, & IGA cont
   - [SCIM provisioning and JIT onboarding]
   - [CI/CD pipelines and IaaC tools]
   - [Configure IdP via API key with OAuth/SAML (Google, Facebook, etc.)](https://learn.microsoft.com/en-us/training/modules/implement-manage-external-identities/13-configure-identity-providers)
+  - [Configure app for SSO with Azure AD](https://learn.microsoft.com/en-us/entra/identity/saas-apps/github-enterprise-cloud-enterprise-account-tutorial)
   - [Create/Update customer Azure RBAC roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles)
   - [Creating Conditional Access policies in Microsoft Entra](https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview)
   - [Plan MFA deployment](https://learn.microsoft.com/en-us/entra/identity/authentication/howto-mfa-getstarted#enforcing-registration)

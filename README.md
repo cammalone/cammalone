@@ -69,6 +69,7 @@ I’m passionate about strengthening **authentication, authorization, & IGA cont
   - [Troubleshooting errors when exporting to Entra Connect](https://learn.microsoft.com/en-us/training/modules/implement-manage-hybrid-identity/7-trouble-shoot-synchronization-errors)
   - [Requiring MFA & Conditional Access Policies](https://learn.microsoft.com/en-us/entra/identity/conditional-access/policy-all-users-mfa-strength)
   - [Azure Roles v. Microsoft Entra Roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles)
+  - [Emergency accounts setup](https://learn.microsoft.com/en-us/training/modules/plan-implement-privileged-access/9-create-manage-emergency-access-accounts)
   - [Plan a Pilot for User Access Reviews](https://learn.microsoft.com/en-us/training/modules/plan-implement-manage-access-review/2-plan-for-access-reviews)
   - [Configure risk policies](https://learn.microsoft.com/en-us/entra/id-protection/howto-identity-protection-configure-risk-policies)
   - [All resources for Conditional Access policies](https://learn.microsoft.com/en-us/training/modules/plan-implement-administer-conditional-access/13-summary-resources)

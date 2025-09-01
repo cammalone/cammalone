@@ -63,6 +63,7 @@ I’m passionate about strengthening **authentication, authorization, & IGA cont
   - [Create/Update customer Azure RBAC roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles)
   - [Creating Conditional Access policies in Microsoft Entra](https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview)
   - [Plan MFA deployment](https://learn.microsoft.com/en-us/entra/identity/authentication/howto-mfa-getstarted#enforcing-registration)
+  - [Tenant takeover](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/domains-admin-takeover)
   - [Implementing App Mgmt Roles in Entra](https://learn.microsoft.com/en-us/training/modules/plan-design-integration-of-enterprise-apps-for-sso/5-design-implement-app-management-roles)
   - [PIM resources](https://learn.microsoft.com/en-us/training/modules/plan-implement-privileged-access/2-define-strategy-for-administrative-users)
   - [Configure SSPR with pw writeback to on-prem](https://www.youtube.com/watch?v=rA8TvhNcCvQ)

@@ -67,6 +67,7 @@ I’m passionate about strengthening **authentication, authorization, & IGA cont
   - [Implementing App Mgmt Roles in Entra](https://learn.microsoft.com/en-us/training/modules/plan-design-integration-of-enterprise-apps-for-sso/5-design-implement-app-management-roles)
   - [PIM resources](https://learn.microsoft.com/en-us/training/modules/plan-implement-privileged-access/2-define-strategy-for-administrative-users)
   - [Configure SSPR with pw writeback to on-prem](https://www.youtube.com/watch?v=rA8TvhNcCvQ)
+  - [Seamless SSO - quickstart guide](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-sso-quick-start)
   - [Troubleshooting errors when exporting to Entra Connect](https://learn.microsoft.com/en-us/training/modules/implement-manage-hybrid-identity/7-trouble-shoot-synchronization-errors)
   - [Requiring MFA & Conditional Access Policies](https://learn.microsoft.com/en-us/entra/identity/conditional-access/policy-all-users-mfa-strength)
   - [Azure Roles v. Microsoft Entra Roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles)

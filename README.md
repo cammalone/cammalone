@@ -61,6 +61,7 @@ I’m passionate about strengthening **authentication, authorization, & IGA cont
   - [Reviewing Entitlement Mgmt](https://learn.microsoft.com/en-us/training/modules/plan-implement-entitlement-management/8-review-per-user-entitlements)
   - [Configure app for SSO with Azure AD](https://learn.microsoft.com/en-us/entra/identity/saas-apps/github-enterprise-cloud-enterprise-account-tutorial)
   - [Create/Update customer Azure RBAC roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles)
+  - [Least Privileged Roles by Task](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/delegate-by-task#monitoring-and-health---recommendations-least-privileged-roles)
   - [Creating Conditional Access policies in Microsoft Entra](https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview)
   - [Plan MFA deployment](https://learn.microsoft.com/en-us/entra/identity/authentication/howto-mfa-getstarted#enforcing-registration)
   - [Tenant takeover](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/domains-admin-takeover)

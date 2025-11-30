@@ -55,6 +55,7 @@ I’m passionate about strengthening **authentication, authorization, & IGA cont
 
 <h2>🧰 Resources/Tools </h2>
 
+  - [IAM Trends](https://www.veritis.com/blog/identity-and-access-management-trends/)
   - [SCIM provisioning and JIT onboarding]
   - [CI/CD pipelines and IaaC tools]
   - [Configure IdP via API key with OAuth/SAML (Google, Facebook, etc.)](https://learn.microsoft.com/en-us/training/modules/implement-manage-external-identities/13-configure-identity-providers)

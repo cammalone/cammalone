@@ -14,7 +14,7 @@ I’m passionate about strengthening **authentication, authorization, & IGA cont
 🔗 [View my LinkedIn](https://linkedin.com/in/cam-malone) 
 
 
-<h2>👨‍💻Cybersecurtiy Projects:</h2>
+<h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Linux via Bash shell</b>
   - [(Authenticate and Authorize Users) - Review file permissions & make modifications](https://github.com/cammalone/ProjectDB/blob/main/File%20Permissions.pdf)

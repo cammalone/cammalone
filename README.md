@@ -3,7 +3,7 @@
 I’m an **Identity & Access Management (IAM) and IGA specialist** with a growing focus on **cloud security, combining identity governance and access control** to safeguard systems across on-prem and cloud environments.
 
 Currently building skills in:
-- ☁️ Microsoft Azure AD (SC-300, AZ-500 in progress)
+- ☁️ Microsoft Azure AD (AZ-500 in progress)
 - 🔐 Okta Identity Cloud & IAM lifecycle automation
 - 🛠️ Bash, PowerShell, and security tooling (e.g., Suricata, Splunk, Wireshark).
 

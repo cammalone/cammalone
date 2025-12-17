@@ -1,11 +1,15 @@
-<h1> 👋 Welcome — I'm Cameron! </h1>
+<h1> 👋 Welcome — I'm Cameron — Cloud Engineer in Progress </h1>
 
-I’m an **Identity & Access Management (IAM) and IGA specialist** with a growing focus on **cloud security, combining identity governance and access control** to safeguard systems across on-prem and cloud environments.
+Cloud Engineer focused on building secure, scalable solutions in Azure & AWS.
+Experienced in identity & access management, automation, and infrastructure-as-code..
 
 Currently building skills in:
-- ☁️ Microsoft Azure AD (AZ-500 in progress)
-- 🔐 Okta Identity Cloud & IAM lifecycle automation
-- 🛠️ Bash, PowerShell, and security tooling (e.g., Suricata, Splunk, Wireshark).
+## 🚀 Skills
+
+**Cloud Platforms:** AWS (EC2, S3, Lambda) | Azure (VMs, Functions, AD)  
+**IaC:** Terraform, Bicep | **Automation:** GitHub Actions, Azure DevOps  
+**Security:** Azure AD, IAM, Zero Trust | **Monitoring:** Azure Monitor, CloudWatch  
+**Scripting:** Bash, PowerShell
 
 I’m passionate about strengthening **authentication, authorization, & IGA controls** through MFA, SSO, Conditional Access policies, RBACs, Least Privilege, User Lifecycle mgmt and UARs.  
 

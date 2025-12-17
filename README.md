@@ -1,18 +1,18 @@
-<h1> 👋 Welcome — I'm Cameron — Cloud Engineer in Progress </h1>
+<h1> 👋 Hi, I’m Cameron — Cloud Engineer in Progress </h1>
 
 Cloud Engineer focused on building secure, scalable solutions in Azure & AWS.
 Experienced in identity & access management, automation, and infrastructure-as-code..
 
 ## 🚀 Currently building skills in:
 
-**Cloud Platforms:** AWS (EC2, S3, Lambda) | Azure (VMs, Functions, AD)  
+**Cloud Platforms:** Azure (VMs, Functions, AD)| AWS (EC2, S3, Lambda)    
 **IaC:** Terraform, Bicep | **Automation:** GitHub Actions, Azure DevOps  
 **Security:** Azure AD, IAM, Zero Trust | **Monitoring:** Azure Monitor, CloudWatch  
 **Scripting:** Bash, PowerShell
 
-I’m passionate about strengthening **authentication, authorization, & IGA controls** through MFA, SSO, Conditional Access policies, RBACs, Least Privilege, User Lifecycle mgmt and UARs.  
+I’m passionate about strengthening **implementing secure scalable cloud solutions, and automating processes**   
 
-**Actively advancing my career in IAM roles** spanning cloud platforms, identity governance, and *zero trust* security architectures.
+**Actively advancing my career in Cloud infrastructure roles** 
 
 🔗 [View my LinkedIn](https://linkedin.com/in/cam-malone) 
 

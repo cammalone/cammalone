@@ -3,14 +3,14 @@
 Cloud Engineer focused on building secure, scalable solutions in Azure & AWS.
 Experienced in identity & access management, automation, and infrastructure-as-code..
 
-## 🚀 Currently building skills in:
+## 🚀 Currently upskilling in:
 
 **Cloud Platforms:** Azure (VMs, Functions, AD) | AWS (EC2, S3, Lambda)    
 **IaC:** Terraform, Bicep | **Automation:** GitHub Actions, Azure DevOps  
 **Security:** Azure AD, IAM, Zero Trust | **Monitoring:** Azure Monitor, CloudWatch  
 **Scripting:** Bash, PowerShell
 
-I’m passionate about **implementing secure scalable cloud solutions, and automating processes** 
+I’m passionate about **implementing secure scalable cloud solutions, and automating processes.** 
 
 ## 📜 Certifications
 
@@ -22,9 +22,8 @@ I’m passionate about **implementing secure scalable cloud solutions, and autom
 - Microsoft Azure Security Engineer (AZ-500) - (in progress)
 - AWS Certified Cloud Practitioner (in progress)
 
- ## 📫 Let’s Connect
-
-📌 LinkedIn: https://linkedin.com/in/cam-malone
+ ## 📫 Let’s Connect | linkedin.com/in/cam-malone
+ 
 
 
 <h2>👨‍💻Cybersecurity Projects:</h2>

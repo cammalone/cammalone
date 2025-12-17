@@ -3,8 +3,7 @@
 Cloud Engineer focused on building secure, scalable solutions in Azure & AWS.
 Experienced in identity & access management, automation, and infrastructure-as-code..
 
-Currently building skills in:
-## 🚀 Skills
+## 🚀 Currently building skills in:
 
 **Cloud Platforms:** AWS (EC2, S3, Lambda) | Azure (VMs, Functions, AD)  
 **IaC:** Terraform, Bicep | **Automation:** GitHub Actions, Azure DevOps  

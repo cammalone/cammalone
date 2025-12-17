@@ -10,7 +10,17 @@ Experienced in identity & access management, automation, and infrastructure-as-c
 **Security:** Azure AD, IAM, Zero Trust | **Monitoring:** Azure Monitor, CloudWatch  
 **Scripting:** Bash, PowerShell
 
-I’m passionate about **implementing secure scalable cloud solutions, and automating processes**   
+I’m passionate about **implementing secure scalable cloud solutions, and automating processes** 
+
+## 📜 Certifications
+
+- [Microsoft Identity and Access Administrator Associate (SC-300)](https://learn.microsoft.com/api/credentials/share/en-us/CameronMalone-9362/C9090BF95463A9B6?sharingId=D5A0D834BB30F5EC)
+- [Microsoft Security, Compliance, & Identity Fundamentals (SC-900)](https://learn.microsoft.com/en-us/users/cameronmalone-9362/credentials/61007c2fafd2676a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [CompTIA Security+](https://www.credly.com/badges/2b696683-5b5e-4301-8ff8-65944343a7f1/linked_in_profile)
+- [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/5DOGGDCNBON0)
+- [MTA: Networking Fundamentals](https://www.credly.com/badges/8c999ea6-77af-4bfa-a5f2-d01da5ccd609/linked_in_profile)
+- Microsoft Azure Security Engineer (AZ-500) - (in progress)
+- AWS Certified Cloud Practitioner (in progress)
 
  ## 📫 Let’s Connect
 
@@ -41,14 +51,6 @@ I’m passionate about **implementing secure scalable cloud solutions, and autom
   - [Entra ID - User Provisioning]
   - [Entra ID - Assigning Licenses]
 
-
-<h2> ✔️ Certifications</h2>
-
-  - [Microsoft Certified (SC-300): Identity and Access Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/CameronMalone-9362/C9090BF95463A9B6?sharingId=D5A0D834BB30F5EC)
-  - [Microsoft Certified (SC-900): Security, Compliance, & Identity Fundamentals](https://learn.microsoft.com/en-us/users/cameronmalone-9362/credentials/61007c2fafd2676a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-  - [CompTIA Security+](https://www.credly.com/badges/2b696683-5b5e-4301-8ff8-65944343a7f1/linked_in_profile)
-  - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/5DOGGDCNBON0)
-  - [MTA: Networking Fundamentals](https://www.credly.com/badges/8c999ea6-77af-4bfa-a5f2-d01da5ccd609/linked_in_profile)
 
 
 <h2>📝 Notes/Study Guides</h2>

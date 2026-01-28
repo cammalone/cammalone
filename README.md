@@ -1,7 +1,7 @@
-<h1> 👋 Hi, I’m Cameron — Cloud Engineer in Progress </h1>
+<h1> 👋 Hi, I’m Cameron </h1>
 
-Cloud Engineer focused on building secure, scalable solutions in Azure & AWS.
-Experienced in identity & access management, automation, and infrastructure-as-code..
+Security Engineer focused on building secure, scalable solutions in Azure & AWS environments.
+Experienced in security monitoring, identity & access management, automation, and log analytics.
 
 ## 🚀 Currently upskilling in:
 

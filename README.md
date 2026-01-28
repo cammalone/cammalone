@@ -5,14 +5,17 @@ Experienced in security monitoring, identity & access management, automation, an
 
 ## 🚀 Currently upskilling in:
 
-**Cloud Platforms:** Azure (VMs, Functions, AD) | AWS (EC2, S3, Lambda)    
+**Cloud Platforms:** Azure (VMs, Functions, AD) | AWS (EC2, S3, Containers, Lambda)    
 **IaC:** Terraform, Bicep | **Automation:** GitHub Actions, Azure DevOps  
 **Security:** Azure AD, IAM, Zero Trust | **Monitoring:** Azure Monitor, CloudWatch  
 **Scripting:** Bash, PowerShell
 
 I’m passionate about **ensuring systems and environments are safe and secure, and understanding how systems work under the hood and with each other.** 
 
-Below you'll find my life's work, from **certifications, projects, and study guides** to **tools and resources** keeping me up-to-date in today's rapidly evolving economy. 
+## 📫 Let’s Connect | linkedin.com/in/cam-malone
+
+Below you'll find my life's work, from **certifications, projects, and study guides** to **tools and resources** keeping me up-to-date in today's rapidly evolving economy.
+
 
 ## 📜 Certifications
 
@@ -24,7 +27,7 @@ Below you'll find my life's work, from **certifications, projects, and study gui
 - Microsoft Azure Security Engineer (AZ-500) - (in progress)
 - AWS Certified Cloud Practitioner (in progress)
 
- ## 📫 Let’s Connect | linkedin.com/in/cam-malone
+ 
  
 
 

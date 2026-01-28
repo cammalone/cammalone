@@ -1,7 +1,6 @@
 <h1> 👋 Hi, I’m Cameron </h1>
 
-Security Engineer focused on building secure, scalable solutions in Azure & AWS environments.
-Experienced in security monitoring, identity & access management, automation, and log analytics.
+Security and IT support professional focused on identity and access management, security monitoring, and enterprise systems. Hands-on experience with Microsoft Entra ID, SIEM fundamentals, and cloud-based labs. Actively building skills in security operations and cloud security.
 
 ## 🚀 Currently upskilling in:
 

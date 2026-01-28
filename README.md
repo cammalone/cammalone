@@ -12,7 +12,7 @@ Experienced in security monitoring, identity & access management, automation, an
 
 I’m passionate about **ensuring systems and environments are safe and secure, and understanding how systems work under the hood and with each other.** 
 
-Below you'll find my life's work, from **certifications, projects, and study guides** to **tools and resources** keeping me up-to-date in today's rapidly evolving ecosystem. 
+Below you'll find my life's work, from **certifications, projects, and study guides** to **tools and resources** keeping me up-to-date in today's rapidly evolving economy. 
 
 ## 📜 Certifications
 

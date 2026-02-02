@@ -57,7 +57,8 @@ Below you'll find my life's work, from **certifications, projects, and study gui
 
 
 <h2>📝 Notes/Study Guides</h2>
-  
+
+  - [SC-300 Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/SC%20300%20Notes.pdf)
   - [Cyber Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/Cy%20Cert%20Notes.pdf)
   - [SC-900 Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/SC%20900%20Notes.pdf)
   - [Security+ Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/SECURITY%2B%20Notes.pdf)

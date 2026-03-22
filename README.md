@@ -58,6 +58,7 @@ Below you'll find my life's work, from **certifications, projects, and study gui
 
 <h2>📝 Notes/Study Guides</h2>
 
+  - [ServiceNow CSA Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/ServiceNow%20SysAdmin%20Notes.pdf)
   - [AWS CCP Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/AWS%20CCP%20Notes.pdf)
   - [SC-300 Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/SC%20300%20Notes.pdf)
   - [Cyber Notes](https://github.com/cammalone/NotesStudyGuides/blob/main/Cy%20Cert%20Notes.pdf)

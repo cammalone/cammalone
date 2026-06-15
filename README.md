@@ -4,11 +4,16 @@ Security professional focused on identity and access management, endpoint protec
 
 ## 🚀 Currently mastering:
 
-:identification_card:**Identity & Access Management:**  Microsoft Entra ID, Azure AD, Conditional Access, RBAC, Privileged Identity Management (PIM)    
+:identification_card:**Identity & Access Management:**  Microsoft Entra ID, Azure AD, Conditional   Access, RBAC, Privileged Identity Management (PIM)   
+
 :lock_with_ink_pen:**Security Operations:** SIEM monitoring/configuration, log monitoring, incident response workflows, Zero Trust architecture  
+
 :clipboard:**Compliance & GRC:** SC-300, Security+, NIST frameworks, access governance 
-:gear: **Automation & Integration:** ServiceNow Flow Designer, Microsoft Graph API, OAuth 2.0, PowerShell
-:cloud:**Cloud (supporting)** Azure (IAM-focused), AWS fundamentals
+
+⚙️**Automation & Integration:** ServiceNow Flow Designer, Microsoft Graph API, OAuth 2.0, PowerShell
+
+☁️**Cloud (supporting)** Azure (IAM-focused), AWS fundamentals
+
 
 I’m passionate about **" understanding how identities move through enterprise systems, who has access, why they have it, and how to make sure only the right people do.** 
 

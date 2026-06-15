@@ -1,15 +1,16 @@
 <h1> 👋 Hi, I’m Cameron </h1>
 
-Security and IT support professional focused on identity and access management, security monitoring, and enterprise systems. Hands-on experience with Microsoft Entra ID, SIEM fundamentals, and cloud-based labs. Actively building skills in security operations and cloud security.
+Security professional focused on identity and access management, endpoint protection, and enterprise security operations. Hands-on experience with Microsoft Entra ID, ServiceNow IAM workflows, and security compliance frameworks. Actively building toward a dedicated IAM engineering role with real-world lab work and production-level projects.
 
-## 🚀 Currently upskilling in:
+## 🚀 Currently mastering:
 
-**Cloud Platforms:** Azure (VMs, Functions, AD) | AWS (EC2, S3, Containers, Lambda)    
-**IaC:** Terraform, Bicep | **Automation:** GitHub Actions, Azure DevOps  
-**Security:** Azure AD, IAM, Zero Trust | **Monitoring:** Azure Monitor, CloudWatch  
-**Scripting:** Bash, PowerShell
+**Identity & Access Management:**  Microsoft Entra ID, Azure AD, Conditional Access, RBAC, Privileged Identity Management (PIM)    
+**Security Operations:** SIEM monitoring/configuration, log monitoring, incident response workflows, Zero Trust architecture  
+**Compliance & GRC:** SC-300, Security+, NIST frameworks, access governance 
+**Automation & Integration:** ServiceNow Flow Designer, Microsoft Graph API, OAuth 2.0, PowerShell
+**Cloud (supporting)** Azure (IAM-focused), AWS fundamentals
 
-I’m passionate about **ensuring systems and environments are safe and secure, and understanding how systems work under the hood and with each other.** 
+I’m passionate about **" understanding how identities move through enterprise systems, who has access, why they have it, and how to make sure only the right people do.** 
 
 ## 📫 Let’s Connect | linkedin.com/in/cam-malone
 
@@ -29,7 +30,6 @@ Below you'll find my life's work, from **certifications, projects, and study gui
 - AWS Certified Cloud Practitioner (AWS CCP)
 - Certified Implementation Specialist - Data Foundations (CIS-DF) 
 
- 
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
@@ -51,9 +51,17 @@ Below you'll find my life's work, from **certifications, projects, and study gui
     
 <h2>👨‍💻IAM Projects:</h2>
 
-- <b>Identity & Access Management (IAM)(In progress - Compiling all projects to be uploaded)</b>
-  - [Entra ID - User Provisioning]
-  - [Entra ID - Assigning Licenses]
+<b>[ServiceNow IAM Lifecycle Workflow Automation](https://www.linkedin.com/feed/update/urn:li:activity:7443889647187038208/)</b>
+
+- Built a full IAM access request workflow in ServiceNow Flow Designer covering catalog intake, manager approval routing, fulfillment task creation, and automated notifications
+- Configured Service Catalog item with structured variables, UI Policies for dynamic form behavior, Business Rules for data validation, and ACLs to restrict sensitive identity fields
+- Cloned and modified the provisioning flow into a separate offboarding variant that bypasses approval and routes immediately to the IAM team for access revocation
+
+<b>[ServiceNow + Microsoft Entra ID Integration via Graph API](https://www.linkedin.com/feed/update/urn:li:activity:7444852817095307264/)</b>
+
+- Registered a ServiceNow application in Entra ID, configured Microsoft Graph API permissions, and established OAuth 2.0 Client Credentials authentication between ServiceNow and Entra
+- Built custom Flow Designer actions using IntegrationHub REST Steps to provision new user accounts and disable offboarded accounts in Entra automatically on workflow execution
+- Resolved OAuth token failure caused by scope misconfiguration on the OAuth Entity Profile — documented as a key troubleshooting reference
 
 
 

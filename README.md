@@ -33,7 +33,16 @@ Below you'll find my life's work, from **certifications, projects, and study gui
 
 <b>In progress</b> 
 - AWS Certified Cloud Practitioner (AWS CCP)
-- Certified Implementation Specialist - Data Foundations (CIS-DF) 
+
+### Microsoft Azure / Active Directory
+
+| Project | Notes |
+|---|---|
+| [Configuring On-Premises Active Directory within Azure VMs] | AD Lab |
+| [Network Security Groups (NSGs) & Network Protocol Analysis] | Wireshark |
+| [Basic DNS Configuration & Testing] | Azure |
+
+---
 
 
 <h2>👨‍💻Cybersecurity Projects:</h2>

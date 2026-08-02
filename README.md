@@ -45,7 +45,7 @@ Below you'll find my life's work, from **certifications, projects, and study gui
 | Project | Notes |
 |---|---|
 | [Configuring On-Premises Active Directory within Azure VMs](https://github.com/cammalone/configure-ad) | AD Lab |
-| [Network Security Groups (NSGs) & Network Protocol Analysis] | Wireshark |
+| [Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/cammalone/azure-network-protocols) | Wireshark |
 | [Basic DNS Configuration & Testing] | Azure |
 
 ---

@@ -24,21 +24,27 @@ Below you'll find my life's work, from **certifications, projects, and study gui
 
 ## 📜 Certifications
 
-- [ServiceNow Certified System Administrator (CSA)](https://www.credly.com/badges/6277fa26-d639-4b0e-b6b1-4ea38f06e851/public_url)
-- [Microsoft Identity and Access Administrator Associate (SC-300)](https://learn.microsoft.com/api/credentials/share/en-us/CameronMalone-9362/C9090BF95463A9B6?sharingId=D5A0D834BB30F5EC)
-- [Microsoft Security, Compliance, & Identity Fundamentals (SC-900)](https://learn.microsoft.com/en-us/users/cameronmalone-9362/credentials/61007c2fafd2676a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- [CompTIA Security+](https://www.credly.com/badges/2b696683-5b5e-4301-8ff8-65944343a7f1/linked_in_profile)
-- [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/5DOGGDCNBON0)
-- [MTA: Networking Fundamentals](https://www.credly.com/badges/8c999ea6-77af-4bfa-a5f2-d01da5ccd609/linked_in_profile)
+| Org/Desc. | Type | Links |
+|---|---|---|
+|ServiceNow Certified System Administrator| CSA | [View](https://www.credly.com/badges/6277fa26-d639-4b0e-b6b1-4ea38f06e851/public_url)|
+|Microsoft Identity and Access Administrator Associate| SC-300 | [View](https://learn.microsoft.com/api/credentials/share/en-us/CameronMalone-9362/C9090BF95463A9B6?sharingId=D5A0D834BB30F5EC)|
+|Microsoft Security, Compliance, & Identity Fundamentals| SC-900 | [View](https://learn.microsoft.com/en-us/users/cameronmalone-9362/credentials/61007c2fafd2676a?ref=https%3A%2F%2Fwww.linkedin.com%2F)|
+|CompTIA Security+ | Sec+ | [View](https://www.credly.com/badges/2b696683-5b5e-4301-8ff8-65944343a7f1/linked_in_profile)|
+|Google Cybersecurity Professional| GCP | [View](https://www.coursera.org/account/accomplishments/specialization/5DOGGDCNBON0)|
+|Microsoft Technology Associate |Networking Fundamentals| [View](https://www.credly.com/badges/8c999ea6-77af-4bfa-a5f2-d01da5ccd609/linked_in_profile)|
 
-<b>In progress</b> 
-- AWS Certified Cloud Practitioner (AWS CCP)
+<b></b> 
+| In Progress | Type |
+|---|---|
+|AWS Certified Cloud Practitioner | AWS CCP |
+
+---
 
 ### Microsoft Azure / Active Directory
 
 | Project | Notes |
 |---|---|
-| [Configuring On-Premises Active Directory within Azure VMs] | AD Lab |
+| [Configuring On-Premises Active Directory within Azure VMs](https://github.com/cammalone/configure-ad) | AD Lab |
 | [Network Security Groups (NSGs) & Network Protocol Analysis] | Wireshark |
 | [Basic DNS Configuration & Testing] | Azure |
 

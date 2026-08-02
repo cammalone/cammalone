@@ -39,15 +39,21 @@ Below you'll find my life's work, from **certifications, projects, and study gui
 |AWS Certified Cloud Practitioner | AWS CCP |
 
 ---
+## IT Support Projects
 
 ### Microsoft Azure / Active Directory
 
-| Project | Notes |
+| Project | Tools |
 |---|---|
 | [Configuring On-Premises Active Directory within Azure VMs](https://github.com/cammalone/configure-ad) | AD Lab |
 | [Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/cammalone/azure-network-protocols) | Wireshark |
-| [Basic DNS Configuration & Testing] | Azure |
+| [DNS Configuration & Testing](https://github.com/cammalone/dns-config) | Azure |
 
+### Help Desk (osTicket)
+
+| Project | Tools |
+|---|---|
+| [Ticket Lifecycle & SLAs] | osTicket |
 ---
 
 

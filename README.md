@@ -1,27 +1,29 @@
-<h1> 👋 Hi, I’m Cameron </h1>
+<h1 align="center">Cameron Malone</h1>
 
-Security professional focused on identity and access management, endpoint protection, and enterprise security operations. Hands-on experience with Microsoft Entra ID, ServiceNow IAM workflows, and security compliance frameworks. Actively building toward a dedicated IAM engineering role with real-world lab work and production-level projects.
+<p align="center">
+  <em></em>
+</p>
+<p align="center">
+<em>Aspiring Systems Administrator & Identity Engineer</em>
+</p>
 
-## 🚀 Currently mastering:
+<p align="center">
+  <a href="https://www.linkedin.com/in/cam-malone">
+  <img src="https://img.shields.io/badge/LinkedIn-cam--malone-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
-:identification_card:**Identity & Access Management:**  Microsoft Entra ID, Azure AD, Conditional   Access, RBAC, Privileged Identity Management (PIM)   
+---
 
-:lock_with_ink_pen:**Security Operations:** SIEM monitoring/configuration, log monitoring, incident response workflows, Zero Trust architecture  
-
-:clipboard:**Compliance & GRC:** SC-300, Security+, NIST frameworks, access governance 
-
-⚙️**Automation & Integration:** ServiceNow Flow Designer, Microsoft Graph API, OAuth 2.0, PowerShell
-
-☁️**Cloud (supporting)** Azure (IAM-focused), AWS fundamentals
-
-
-I’m passionate about **" understanding how identities move through enterprise systems, who has access, why they have it, and how to make sure only the right people do.** 
-
-## 📫 Let’s Connect | linkedin.com/in/cam-malone
-
-Below you'll find my life's work, from **certifications, projects, and study guides** to **tools and resources** keeping me up-to-date in today's rapidly evolving economy.
-
-
+> **Portfolio Note**
+>
+> I'm a business professional transitioning into infrastructure and support roles, **with a focus on IT Support, Systems Administration, and Identity & Access Management.** 
+>  
+> This portfolio documents hands-on projects I've built to sharpen real skills, not just check boxes. You'll find work spanning **Active Directory and Entra ID hybrid identity, PowerShell automation, ServiceNow workflow design, and home lab infrastructure** where I break, fix, and rebuild things to understand how they actually work.  
+>  
+> I'm currently seeking IT roles, targeting IT Support Specialist, Systems Administrator, and Directory Services / Identity positions where I can grow into deeper infrastructure and identity work.
+> 
+> Take a look around, and feel free to reach out.
 
 ---
 ## IT Support Projects

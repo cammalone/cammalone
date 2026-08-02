@@ -22,21 +22,6 @@ I’m passionate about **" understanding how identities move through enterprise 
 Below you'll find my life's work, from **certifications, projects, and study guides** to **tools and resources** keeping me up-to-date in today's rapidly evolving economy.
 
 
-## 📜 Certifications
-
-| Org/Desc. | Type | Links |
-|---|---|---|
-|ServiceNow Certified System Administrator| CSA | [View](https://www.credly.com/badges/6277fa26-d639-4b0e-b6b1-4ea38f06e851/public_url)|
-|Microsoft Identity and Access Administrator Associate| SC-300 | [View](https://learn.microsoft.com/api/credentials/share/en-us/CameronMalone-9362/C9090BF95463A9B6?sharingId=D5A0D834BB30F5EC)|
-|Microsoft Security, Compliance, & Identity Fundamentals| SC-900 | [View](https://learn.microsoft.com/en-us/users/cameronmalone-9362/credentials/61007c2fafd2676a?ref=https%3A%2F%2Fwww.linkedin.com%2F)|
-|CompTIA Security+ | Sec+ | [View](https://www.credly.com/badges/2b696683-5b5e-4301-8ff8-65944343a7f1/linked_in_profile)|
-|Google Cybersecurity Professional| GCP | [View](https://www.coursera.org/account/accomplishments/specialization/5DOGGDCNBON0)|
-|Microsoft Technology Associate |Networking Fundamentals| [View](https://www.credly.com/badges/8c999ea6-77af-4bfa-a5f2-d01da5ccd609/linked_in_profile)|
-
-<b></b> 
-| In Progress | Type |
-|---|---|
-|AWS Certified Cloud Practitioner | AWS CCP |
 
 ---
 ## IT Support Projects
@@ -54,8 +39,24 @@ Below you'll find my life's work, from **certifications, projects, and study gui
 | Project | Tools |
 |---|---|
 | [Ticket Lifecycle & SLAs](https://github.com/cammalone/ticket-lifecycle) | osTicket |
+
 ---
 
+<h2>👨‍💻IAM Projects:</h2>
+
+<b>[ServiceNow IAM Lifecycle Workflow Automation](https://www.linkedin.com/feed/update/urn:li:activity:7443889647187038208/)</b>
+
+- Built a full IAM access request workflow in ServiceNow Flow Designer covering catalog intake, manager approval routing, fulfillment task creation, and automated notifications
+- Configured Service Catalog item with structured variables, UI Policies for dynamic form behavior, Business Rules for data validation, and ACLs to restrict sensitive identity fields
+- Cloned and modified the provisioning flow into a separate offboarding variant that bypasses approval and routes immediately to the IAM team for access revocation
+
+<b>[ServiceNow + Microsoft Entra ID Integration via Graph API](https://www.linkedin.com/feed/update/urn:li:activity:7444852817095307264/)</b>
+
+- Registered a ServiceNow application in Entra ID, configured Microsoft Graph API permissions, and established OAuth 2.0 Client Credentials authentication between ServiceNow and Entra
+- Built custom Flow Designer actions using IntegrationHub REST Steps to provision new user accounts and disable offboarded accounts in Entra automatically on workflow execution
+- Resolved OAuth token failure caused by scope misconfiguration on the OAuth Entity Profile — documented as a key troubleshooting reference
+
+---
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
@@ -74,22 +75,26 @@ Below you'll find my life's work, from **certifications, projects, and study gui
   - [Analyzing network traffic to inspect packet data in Windows VM using sample data](https://github.com/cammalone/ProjectDB/blob/main/Analyzing%20packets%20using%20Wireshark.pdf)
 - <b>VirusTotal</b>
     - [Practicing scanning hash files, urls, IP addresses & domains for IoCs](https://github.com/cammalone/ProjectDB/blob/main/Scanning%20Hashes.pdf)
-    
-<h2>👨‍💻IAM Projects:</h2>
 
-<b>[ServiceNow IAM Lifecycle Workflow Automation](https://www.linkedin.com/feed/update/urn:li:activity:7443889647187038208/)</b>
+---
 
-- Built a full IAM access request workflow in ServiceNow Flow Designer covering catalog intake, manager approval routing, fulfillment task creation, and automated notifications
-- Configured Service Catalog item with structured variables, UI Policies for dynamic form behavior, Business Rules for data validation, and ACLs to restrict sensitive identity fields
-- Cloned and modified the provisioning flow into a separate offboarding variant that bypasses approval and routes immediately to the IAM team for access revocation
+## 📜 Certifications
 
-<b>[ServiceNow + Microsoft Entra ID Integration via Graph API](https://www.linkedin.com/feed/update/urn:li:activity:7444852817095307264/)</b>
+| Org/Desc. | Type | Links |
+|---|---|---|
+|ServiceNow Certified System Administrator| CSA | [View](https://www.credly.com/badges/6277fa26-d639-4b0e-b6b1-4ea38f06e851/public_url)|
+|Microsoft Identity and Access Administrator Associate| SC-300 | [View](https://learn.microsoft.com/api/credentials/share/en-us/CameronMalone-9362/C9090BF95463A9B6?sharingId=D5A0D834BB30F5EC)|
+|Microsoft Security, Compliance, & Identity Fundamentals| SC-900 | [View](https://learn.microsoft.com/en-us/users/cameronmalone-9362/credentials/61007c2fafd2676a?ref=https%3A%2F%2Fwww.linkedin.com%2F)|
+|CompTIA Security+ | Sec+ | [View](https://www.credly.com/badges/2b696683-5b5e-4301-8ff8-65944343a7f1/linked_in_profile)|
+|Google Cybersecurity Professional| GCP | [View](https://www.coursera.org/account/accomplishments/specialization/5DOGGDCNBON0)|
+|Microsoft Technology Associate |Networking Fundamentals| [View](https://www.credly.com/badges/8c999ea6-77af-4bfa-a5f2-d01da5ccd609/linked_in_profile)|
 
-- Registered a ServiceNow application in Entra ID, configured Microsoft Graph API permissions, and established OAuth 2.0 Client Credentials authentication between ServiceNow and Entra
-- Built custom Flow Designer actions using IntegrationHub REST Steps to provision new user accounts and disable offboarded accounts in Entra automatically on workflow execution
-- Resolved OAuth token failure caused by scope misconfiguration on the OAuth Entity Profile — documented as a key troubleshooting reference
+<b></b> 
+| In Progress | Type |
+|---|---|
+|AWS Certified Cloud Practitioner | AWS CCP |
 
-
+---
 
 <h2>📝 Notes/Study Guides</h2>
 

@@ -53,7 +53,7 @@ Below you'll find my life's work, from **certifications, projects, and study gui
 
 | Project | Tools |
 |---|---|
-| [Ticket Lifecycle & SLAs] | osTicket |
+| [Ticket Lifecycle & SLAs](https://github.com/cammalone/ticket-lifecycle) | osTicket |
 ---
 
 

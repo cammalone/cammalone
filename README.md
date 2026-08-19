@@ -40,7 +40,7 @@
 
 | Project | Tools |
 |---|---|
-| [Deployment, Client Registration Troubleshooting, and Update Approval Workflow](https://github.com/cammalone/configure-ad) | Windows Server Update Service (WSUS) |
+| [Deployment, Client Registration Troubleshooting, and Update Approval Workflow](https://github.com/cammalone/wsus-patch-management) | Windows Server Update Services (WSUS) |
 
 ### Help Desk 
 

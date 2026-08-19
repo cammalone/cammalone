@@ -36,6 +36,12 @@
 | [Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/cammalone/azure-network-protocols) | Wireshark |
 | [DNS Configuration & Testing](https://github.com/cammalone/dns-config) | Azure |
 
+### Patch Management / Baseline Configurations
+
+| Project | Tools |
+|---|---|
+| [Deployment, Client Registration Troubleshooting, and Update Approval Workflow](https://github.com/cammalone/configure-ad) | Windows Server Update Service (WSUS) |
+
 ### Help Desk 
 
 | Project | Tools |

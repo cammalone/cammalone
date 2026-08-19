@@ -36,7 +36,7 @@
 | [Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/cammalone/azure-network-protocols) | Wireshark |
 | [DNS Configuration & Testing](https://github.com/cammalone/dns-config) | Azure |
 
-### Help Desk (osTicket)
+### Help Desk 
 
 | Project | Tools |
 |---|---|

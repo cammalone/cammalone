@@ -41,7 +41,7 @@
 | Project | Tools |
 |---|---|
 | [Ticket Lifecycle & SLAs](https://github.com/cammalone/ticket-lifecycle) | osTicket |
-| [VPN Setup & Usage] | Proton VPN |
+| [VPN Setup & Usage](https://github.com/cammalone/vpn-setup) | Proton VPN |
 ---
 
 <h2>👨‍💻IAM Projects:</h2>
